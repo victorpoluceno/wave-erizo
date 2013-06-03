@@ -1,2 +1,3 @@
 sudo apt-get update
-sh ./lynckia/scripts/installUbuntuDeps.sh
+./lynckia/scripts/installUbuntuDeps.sh
+./lynckia/scripts/installErizo.sh
